@@ -1,5 +1,5 @@
 # Ball-Chaser-Robot
-This project contains a mobile robot and the world it resides in using Gazebo and URDF. Also, the C++ nodes in ROS to chase white colored balls.
+This project contains a mobile robot and the world it resides in created using Gazebo and URDF. Also, the C++ nodes in ROS to chase white colored balls.
 ## How to Launch the simulation?
 ### Clone the package in your repositry
 ```sh
