@@ -4,7 +4,7 @@ This project contains a mobile robot and the world it resides in created using G
 ### Clone the package in your repositry
 ```sh
 $ cd <your repository> ### or skip if you are already there
-$ git clone https://github.com/udacity/RoboND-simple_arm.git simple_arm
+$ git clone https://github.com/IsmailAlr/Ball-Chaser-Robot.git
 ```
 ### Initiate a workspace
 ```sh
